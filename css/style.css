@@ -220,7 +220,7 @@ h3 {
 
   #left {
     justify-content: start;
-    margin-top: 4vh;
+    padding-top: 1rem;
   }
 
   #sign-in .logo {
