@@ -214,13 +214,20 @@ h3 {
 
   }
 
+  .fix-scroll {
+    margin-bottom: 4rem;
+    width: 100px;
+    height: 100px;
+    background: #fff;
+    opacity: 0;
+  }
+
   #right {
     display: none;
   }
 
   #left {
     align-items: center;
-    margin-top: 1.5rem;
   }
 
   #sign-in .logo {
